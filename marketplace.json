@@ -1,0 +1,28 @@
+{
+  "mods": [
+    {
+      "name": "SimpleOres",
+      "image": "https://example.com/images/simpleores.png",
+      "description": "SimpleOres is a Minecraft mod that adds several new ores and tools to the game, enhancing the vanilla experience with a touch of progression.",
+      "download_link": "https://example.com/downloads/simpleores"
+    },
+    {
+      "name": "JourneyMap",
+      "image": "https://example.com/images/journeymap.png",
+      "description": "JourneyMap lets you view a real-time map of your Minecraft world as you explore. The map can be viewed in a web browser or as an in-game minimap.",
+      "download_link": "https://example.com/downloads/journeymap"
+    },
+    {
+      "name": "Biomes O' Plenty",
+      "image": "https://example.com/images/biomesoplenty.png",
+      "description": "Adds a wide variety of new biomes to the Overworld and the Nether, complete with new blocks, trees, plants, and more.",
+      "download_link": "https://example.com/downloads/biomesoplenty"
+    },
+    {
+      "name": "Tinkers' Construct",
+      "image": "https://example.com/images/tinkersconstruct.png",
+      "description": "A mod that introduces a modular tool crafting system with a unique smelting and forging process.",
+      "download_link": "https://example.com/downloads/tinkersconstruct"
+    }
+  ]
+}
