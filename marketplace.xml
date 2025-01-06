@@ -1,0 +1,8 @@
+<marketplace>
+    <mod>
+        <name>Mod Name</name>
+        <image>image_url</image>
+        <description>Mod Description</description>
+        <download_link>download_link_url</download_link>
+    </mod>
+</marketplace>
